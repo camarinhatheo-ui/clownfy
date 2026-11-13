@@ -1,0 +1,8 @@
+# configurações locais do editor
+.claude/
+
+# arquivos do sistema
+Thumbs.db
+desktop.ini
+.DS_Store
+~$*

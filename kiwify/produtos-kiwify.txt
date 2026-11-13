@@ -1,0 +1,30 @@
+PRODUTOS CLOWNFY NA KIWIFY
+
+Em todos, ao clicar em "Criar produto":
+- Tipo de pagamento: Assinatura recorrente
+- Entrega do conteúdo: Quero apenas receber pagamentos
+- Página de vendas: https://instagram.com/agenciaclownfy
+- Nome de exibição do produtor: Clownfy
+- Plano: Frequência Mensal / Renovação "Até o cliente cancelar"
+
+------------------------------------------------------------
+1) ESSENCIAL  (JÁ CRIADO)
+Link de pagamento: https://pay.kiwify.com.br/iTFnuCE
+
+------------------------------------------------------------
+2) PROFISSIONAL
+Nome do produto: Clownfy | Plano Profissional
+Descrição:
+Plano Profissional da Clownfy (Camarote): gestão de 2 redes sociais com 8 posts, 1 reel e 16 stories por mês, resposta a comentários em horário comercial, site com até 3 alterações por mês e relatório mensal completo. Assinatura mensal.
+Imagem: capa-profissional.png
+Plano: Profissional - Camarote / R$ 1.290,00 / Mensal
+
+------------------------------------------------------------
+3) PREMIUM
+Nome do produto: Clownfy | Plano Premium
+Descrição:
+Plano Premium da Clownfy (Picadeiro VIP): gestão de 3 redes sociais com 12 posts, 3 reels e stories todos os dias, resposta a comentários e mensagens, site com até 8 alterações por mês e reunião mensal de resultados. Assinatura mensal.
+Imagem: capa-premium.png
+Plano: Premium - Picadeiro VIP / R$ 2.490,00 / Mensal
+
+Depois de criar cada um: aba "Links" -> copie o link que começa com https://pay.kiwify.com.br/
